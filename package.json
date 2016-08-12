@@ -1,0 +1,30 @@
+{
+  "name": "shrinku-adapter-rethinkdb",
+  "version": "1.0.0",
+  "description": "RethinkDB adapter for Shrinku storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karasube/shrinku-adapter-rethinkdb.git"
+  },
+  "keywords": [
+    "rethinkdb",
+    "shorturl",
+    "shortener",
+    "short",
+    "shrinku",
+    "adapter"
+  ],
+  "author": "Koch Maxence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karasube/shrinku-adapter-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/karasube/shrinku-adapter-rethinkdb#readme",
+  "dependencies": {
+    "rethinkdbdash": "^2.3.19"
+  }
+}
